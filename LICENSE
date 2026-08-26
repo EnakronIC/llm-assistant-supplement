@@ -3,7 +3,9 @@ model-generated answers, judge scores, and photographs) are licensed
 under the Creative Commons Attribution 4.0 International License
 (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
 
-Exception: the short "retrieved context" excerpts quoted on the page
+Exceptions: (a) the vision-tool input image (photos/operator.jpg) is a
+third-party photograph shown for demonstration only and is NOT covered
+by the CC BY 4.0 grant; (b) the short "retrieved context" excerpts quoted on the page
 are truncated passages from a machine operator's manual and remain the
 property of their respective rights holder. They are reproduced here
 in brief, truncated form solely for scholarly illustration and are NOT
